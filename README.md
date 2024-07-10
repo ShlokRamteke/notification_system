@@ -7,7 +7,7 @@ This project is a microservices-based real-time notification system built with N
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/notification-system.git
+git clone https://github.com/ShlokRamteke/notification_system
 cd notification-system
 ```
 
